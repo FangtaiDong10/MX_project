@@ -1,2 +1,7 @@
 flask==2.1.2
+flask_restx==0.5.1
 flask-mongoengine==1.0.0
+flask_cors==3.0.10
+bcrypt==3.2.2
+flask_jwt_extended==4.4.2
+boto3==1.24.36
